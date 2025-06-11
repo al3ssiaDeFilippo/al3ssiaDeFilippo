@@ -50,7 +50,8 @@ Created as part of a university web development project.
 ## 🌟 A bit about me
 
 Besides coding, I’m deeply passionate about:
-🎵 music • 🐾 animals • 🎲 board games • 🎮 video games • 🏡 interior design • 🏊‍♀️ swimming • 🌍 languages
+
+🎵 music • 🏊‍♀️ swimming • ✈️ travelling • 🐾 animals • 🏡 interior design • 🎲 board games • 🎮 video games  • 🌍 languages 
 
 ---
 <img src="https://flagcdn.com/24x18/it.png" alt="Italian" width="24" height="18" /> Italian - native speaker  
