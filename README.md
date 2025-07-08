@@ -33,7 +33,7 @@
 
 ## 📂 Projects
 
-### 🟢 **WellYess** – *In progress*  
+### 🟢 **WellYess** – *Completed*  
 A mobile app that helps elderly people manage their health and daily habits through reminders, tracking, and well-being support.  
 *Currently developing the UX prototype.*
 
