@@ -42,15 +42,15 @@
 
 ### 🟢 **WellYess** – *Completed*  
 A mobile app that helps elderly people manage their health and daily habits through reminders, tracking, and well-being support.  
-*Currently developing the UX prototype.*
+Developed as part of a university project for the *Human-Computer Interaction* course.
 
 ### 🔵 **Bridge** – *Completed*  
 A web platform designed to support refugees in Italy by offering tools for social and economic integration.  
-Developed as part of a university project focused on usability and accessibility.
+Developed as part of a university project for the *Software Engineering* course.
 
 ### 🟣 **PosterWorld** – *Completed*  
 An e-commerce platform for selling posters related to movies, TV series, anime, manga, and video games.  
-Created as part of a university web development project.
+Created as part of a university project for the *Software technologies for the web* course.
 
 ---
 
