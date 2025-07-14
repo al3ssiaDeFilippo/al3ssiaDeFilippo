@@ -11,17 +11,24 @@
 ## 🔧 Tech Stack
 
 ### 💻 Languages
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,c,cs,js,html,css,python&theme=dark" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,c,cs,js,html,css,dart&theme=dark" /> </p>
 
-
-## 🛠️ Tools & IDEs
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,unity,mongodb,react" alt="Tools & IDEs" />
+### 🛠️ Tools & IDEs
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,react,mongodb,flutter" alt="Tools & IDEs" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
 </p>
+
+### 🎮 Game Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="40" height="40"/>
+</p>
+
+### 🎨 Design & Prototyping
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
+</p>
+
 
 ---
 
@@ -54,14 +61,13 @@ Besides coding, I’m deeply passionate about:
 🎵 music • 🏊‍♀️ swimming • ✈️ travelling • 🐾 animals • 🏡 interior design • 🎲 board games • 🎮 video games  • 🌍 languages 
 
 ---
+
 <img src="https://flagcdn.com/24x18/it.png" alt="Italian" width="24" height="18" /> Italian - native speaker  
 <img src="https://flagcdn.com/24x18/gb.png" alt="English" width="24" height="18" /> English - advanced level  
 <img src="https://flagcdn.com/24x18/fr.png" alt="French" width="24" height="18" /> French - intermediate level  
 <img src="https://flagcdn.com/24x18/es.png" alt="Spanish" width="24" height="18" /> Spanish - intermediate level  
 <img src="https://flagcdn.com/24x18/kr.png" alt="Korean" width="24" height="18" /> Korean - can read and write  
 <img src="https://flagcdn.com/24x18/th.png" alt="Thai" width="24" height="18" /> Thai - currently learning
-
-
 
 ---
 
