@@ -74,3 +74,4 @@ Besides coding, I’m deeply passionate about:
 ## 📫 Contact
 
 📧 Email: [alessiadefilippo04@gmail.com](mailto:alessiadefilippo04@gmail.com)
+
