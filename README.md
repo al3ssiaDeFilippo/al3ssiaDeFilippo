@@ -27,13 +27,6 @@
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
 </p>
 
-
----
-
-## 📊 GitHub Stats
-
-![Alessia's GitHub stats](https://github-readme-stats.vercel.app/api?username=al3ssiaDeFilippo&show_icons=true&theme=dark)
-
 ---
 
 ## 📂 Projects
