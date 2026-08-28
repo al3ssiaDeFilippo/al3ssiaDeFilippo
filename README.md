@@ -7,6 +7,7 @@
 🧠 I enjoy creating technology with a purpose, especially when it intersects with social impact, creativity, and usability.
 
 ---
+## 🔧 Tech Stack
 
 ### 💻 Languages
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,c,cs,js,html,css,dart&theme=dark" /> </p>
