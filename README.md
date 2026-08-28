@@ -8,8 +8,6 @@
 
 ---
 
-## 🔧 Tech Stack
-
 ### 💻 Languages
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,c,cs,js,html,css,dart&theme=dark" /> </p>
 
